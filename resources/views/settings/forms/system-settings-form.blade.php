@@ -1,4 +1,5 @@
 {{-- System Settings --}}
+<!-- this is the code for the superadmin system settings  -->
 <div class="border border-secondary rounded-lg my-4 mx-1">
     <div class="col-md-12 mt-3">
         <h4>{{ __('System Settings') }}</h4>
