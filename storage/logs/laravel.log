@@ -2181,3 +2181,4 @@
 [2026-01-27 20:57:02] local.ERROR: System Settings Controller -> Store method GD Library extension not available with this PHP installation.---> /home/ashutosh/Documents/code-UfEZzLOc-eschool-saas-school-management-system-with-student-parents-teacher-flutter-app-laravel-admin/eSchool-Saas-V1.8.2/PHP_CODE/PHP_Code/vendor/intervention/image/src/Intervention/Image/Gd/Driver.php At Line : 19  
 [2026-01-28 11:06:00] local.ERROR: Login attempt failed in main database. Email: superadmin@gmail.com  
 [2026-01-28 12:13:46] local.ERROR: Login attempt failed in main database. Email: zippyfin@gmail.com  
+[2026-01-28 14:32:41] local.ERROR: Login attempt failed in main database. Email: zippyfin@gmail.com  
